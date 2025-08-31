@@ -2,7 +2,7 @@
 # IBM Data Science with R Capstone Project
 
 ## Project Overview
-This project aims to predict the demand for bike share services in Seoul using historical data combined with OpenWeather forecast data. The prediction model can inform optimising the supply and destribution of bicycles according to demand.
+This project aims to predict the demand for bike share services in Seoul using historical data combined with OpenWeather forecast data. The prediction model can inform optimising the supply and distribution of bicycles according to demand.
 
 The following components are completed in R running on Jupyter notebooks:
 - **Data collection:**
